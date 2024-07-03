@@ -1,0 +1,23 @@
+===================================   Step 01   ========================================
+============================  Download and Install Python ===============================
+
+Past this link to chrome and python.org will downloaded.
+https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe
+Now Install it (very easy)
+
+
+===================================   Step 02   ========================================
+========================  Download and Install VS code =================================
+
+1. paste this link to your chrome and downloading will be started automatically for (Windows).
+For Windows:  https://code.visualstudio.com/docs/?dv=win64user
+For Mac:      https://code.visualstudio.com/docs/?dv=osx
+
+
+
+===================================   Step 03   ========================================
+=============================  Extensions for VS code ==================================
+
+Open VS code and install these 2 extensions  in the side bar (extensions)
+1. Code Runner
+2. Python
