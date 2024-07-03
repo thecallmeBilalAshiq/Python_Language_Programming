@@ -1,4 +1,4 @@
-# Python Courae
+# Python Course
 
 Here is the complete course of python.
 I have uploaded the files day by day. Follow it.
