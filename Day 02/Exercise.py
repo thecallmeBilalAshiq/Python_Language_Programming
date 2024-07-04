@@ -30,6 +30,3 @@
 3. Calculate and print the square of the number (`x`) using the exponentiation operator (`**`).
 
 ### ------------------------------------   Best of Luck ----------------------------------------- ###
-> [!NOTE]
-> If you want solution of this file you can get it by making a message request at  [Muhammad Bilal Ashiq](https://www.linkedin.com/in/bilal-ashiq/). 
-                                                                                         
