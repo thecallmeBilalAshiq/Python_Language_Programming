@@ -27,9 +27,27 @@ Feel free to contribute to this repository by adding code samples, tutorials, or
 
 
 Happy coding! 🐍🚀
-***
 
-### 🖊 the writer : Muhammad Bilal Ashiq
-> [!NOTE]
-> If you have any query you can contact me at [Contact Bilal Ashiq](https://www.linkedin.com/in/bilal-ashiq/)
+***
+### Writer : Muhammad Bilal Ashiq 
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/thecallmeBilalAshiq">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilal-ashiq/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="bashiq031@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+    <a href="https://www.instagram.com/theycallme_bilal_ashiq/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+      
+  </a>
+  
+</p>
+
 
