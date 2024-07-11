@@ -2,11 +2,11 @@
 
 Welcome to the **Python Language Programming** repository! This repository serves as a resource for learning and exploring the Python programming language. Whether you're a beginner or an experienced developer, you'll find valuable content here.
 
-## Introduction
+## 🔴 Introduction
 
 Python is an easy-to-learn, powerful programming language with efficient high-level data structures and a simple yet effective approach to object-oriented programming. Its elegant syntax, dynamic typing, and interpreted nature make it ideal for scripting, rapid application development, and more.
 
-### Key Features:
+### 📌 Key Features:
 
 - **Readability**: Python emphasizes code readability through significant indentation.
 - **Versatility**: Supports multiple programming paradigms (structured, object-oriented, functional).
@@ -29,7 +29,7 @@ Feel free to contribute to this repository by adding code samples, tutorials, or
 Happy coding! 🐍🚀
 
 ***
-### Writer : Muhammad Bilal Ashiq 
+### 📝 Writer : Muhammad Bilal Ashiq 
 
 <br />
 
