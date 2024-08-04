@@ -25,7 +25,6 @@ Python is an easy-to-learn, powerful programming language with efficient high-le
 
 Feel free to contribute to this repository by adding code samples, tutorials, or helpful resources related to Python. Create pull requests, report issues, and collaborate with the community!
 
-
 Happy coding! 🐍🚀
 
 ***
